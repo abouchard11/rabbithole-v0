@@ -1,0 +1,1937 @@
+[
+  {
+    "num": 1,
+    "date": "2026-07-15",
+    "start": "Volcano",
+    "target": "Frankenstein",
+    "startEmoji": "🌋",
+    "targetEmoji": "🧟",
+    "tagline": "An eruption wrote a monster.",
+    "par": 3,
+    "path": [
+      "Volcano",
+      "Mount Tambora",
+      "Year Without a Summer",
+      "Frankenstein"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 2,
+    "date": "2026-07-16",
+    "start": "Selfie",
+    "target": "Mona Lisa",
+    "startEmoji": "🤳",
+    "targetEmoji": "🖼️",
+    "tagline": "The original self-portrait energy.",
+    "par": 3,
+    "path": [
+      "Selfie",
+      "Self-portrait",
+      "Leonardo da Vinci",
+      "Mona Lisa"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 3,
+    "date": "2026-07-17",
+    "start": "Banana",
+    "target": "Isaac Newton",
+    "startEmoji": "🍌",
+    "targetEmoji": "🍎",
+    "tagline": "Wrong fruit. Right physicist.",
+    "par": 3,
+    "path": [
+      "Banana",
+      "Fruit",
+      "Apple",
+      "Isaac Newton"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 4,
+    "date": "2026-07-18",
+    "start": "Zombie",
+    "target": "Quantum mechanics",
+    "startEmoji": "🧟",
+    "targetEmoji": "⚛️",
+    "tagline": "Braaains… theoretical ones.",
+    "par": 3,
+    "path": [
+      "Zombie",
+      "Philosophical zombie",
+      "Consciousness",
+      "Quantum mechanics"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 5,
+    "date": "2026-07-19",
+    "start": "Bluetooth",
+    "target": "Vikings",
+    "startEmoji": "📶",
+    "targetEmoji": "⚔️",
+    "tagline": "Your earbuds are named after a king.",
+    "par": 3,
+    "path": [
+      "Bluetooth",
+      "Harald Bluetooth",
+      "Denmark",
+      "Vikings"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 6,
+    "date": "2026-07-20",
+    "start": "Emoji",
+    "target": "Ancient Egypt",
+    "startEmoji": "😀",
+    "targetEmoji": "🐫",
+    "tagline": "Hieroglyphs never died. They got a keyboard.",
+    "par": 3,
+    "path": [
+      "Emoji",
+      "Pictogram",
+      "Egyptian hieroglyphs",
+      "Ancient Egypt"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 7,
+    "date": "2026-07-21",
+    "start": "Yoga",
+    "target": "The Beatles",
+    "startEmoji": "🧘",
+    "targetEmoji": "🎸",
+    "tagline": "Namaste, Abbey Road.",
+    "par": 3,
+    "path": [
+      "Yoga",
+      "Meditation",
+      "Transcendental Meditation",
+      "The Beatles"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 8,
+    "date": "2026-07-22",
+    "start": "Sushi",
+    "target": "Silicon Valley",
+    "startEmoji": "🍣",
+    "targetEmoji": "💻",
+    "tagline": "Raw fish to raw capital.",
+    "par": 3,
+    "path": [
+      "Sushi",
+      "California roll",
+      "California",
+      "Silicon Valley"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 9,
+    "date": "2026-07-23",
+    "start": "Dracula",
+    "target": "Photosynthesis",
+    "startEmoji": "🧛",
+    "targetEmoji": "🌱",
+    "tagline": "One of these thrives in sunlight.",
+    "par": 3,
+    "path": [
+      "Dracula",
+      "Vampire",
+      "Sunlight",
+      "Photosynthesis"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 10,
+    "date": "2026-07-24",
+    "start": "Denim",
+    "target": "California gold rush",
+    "startEmoji": "👖",
+    "targetEmoji": "⛏️",
+    "tagline": "Your jeans were work equipment.",
+    "par": 3,
+    "path": [
+      "Denim",
+      "Jeans",
+      "Levi Strauss",
+      "California gold rush"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 11,
+    "date": "2026-07-25",
+    "start": "Poker",
+    "target": "American frontier",
+    "startEmoji": "🃏",
+    "targetEmoji": "🤠",
+    "tagline": "Know when to hold em.",
+    "par": 3,
+    "path": [
+      "Poker",
+      "American Revolutionary War",
+      "United States",
+      "American frontier"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 12,
+    "date": "2026-07-26",
+    "start": "Karaoke",
+    "target": "Genghis Khan",
+    "startEmoji": "🎤",
+    "targetEmoji": "🏹",
+    "tagline": "Conquer the mic. Then Asia.",
+    "par": 3,
+    "path": [
+      "Karaoke",
+      "Japan",
+      "Mongolia",
+      "Genghis Khan"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 13,
+    "date": "2026-07-27",
+    "start": "Pizza",
+    "target": "Albert Einstein",
+    "startEmoji": "🍕",
+    "targetEmoji": "🧠",
+    "tagline": "Genius has a thin crust.",
+    "par": 3,
+    "path": [
+      "Pizza",
+      "Italy",
+      "Galileo Galilei",
+      "Albert Einstein"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 14,
+    "date": "2026-07-28",
+    "start": "Mount Everest",
+    "target": "New Zealand",
+    "startEmoji": "🏔️",
+    "targetEmoji": "🥝",
+    "tagline": "The summit has a Kiwi accent.",
+    "par": 3,
+    "path": [
+      "Mount Everest",
+      "Edmund Hillary",
+      "Auckland",
+      "New Zealand"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 15,
+    "date": "2026-07-29",
+    "start": "Netflix",
+    "target": "Great Depression",
+    "startEmoji": "📺",
+    "targetEmoji": "📉",
+    "tagline": "From binge to breadlines.",
+    "par": 3,
+    "path": [
+      "Netflix",
+      "United States",
+      "Great Depression in the United States",
+      "Great Depression"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 16,
+    "date": "2026-07-30",
+    "start": "Flamingo",
+    "target": "Chemistry",
+    "startEmoji": "🦩",
+    "targetEmoji": "🧪",
+    "tagline": "Pink is a chemical reaction.",
+    "par": 3,
+    "path": [
+      "Flamingo",
+      "Carotenoid",
+      "Phytochemistry",
+      "Chemistry"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 17,
+    "date": "2026-07-31",
+    "start": "Rickrolling",
+    "target": "Kurt Cobain",
+    "startEmoji": "😏",
+    "targetEmoji": "🎸",
+    "tagline": "This prank song mosh-pits its way straight into Nirvana.",
+    "par": 3,
+    "path": [
+      "Rickrolling",
+      "Rick Astley",
+      "Foo Fighters",
+      "Kurt Cobain"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 18,
+    "date": "2026-08-01",
+    "start": "Damn Daniel",
+    "target": "Blink-182",
+    "startEmoji": "👟",
+    "targetEmoji": "🥁",
+    "tagline": "Those white Vans somehow mosh into pop-punk history.",
+    "par": 3,
+    "path": [
+      "Damn Daniel",
+      "Vans",
+      "Warped Tour",
+      "Blink-182"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 19,
+    "date": "2026-08-02",
+    "start": "Slinky",
+    "target": "Weightlessness",
+    "startEmoji": "🌀",
+    "targetEmoji": "🧑‍🚀",
+    "tagline": "Astronauts flew a Slinky to space, but it wouldn't slink.",
+    "par": 3,
+    "path": [
+      "Slinky",
+      "Space Shuttle Discovery",
+      "STS-51-D",
+      "Weightlessness"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 20,
+    "date": "2026-08-03",
+    "start": "Twinkie",
+    "target": "Harvey Milk",
+    "startEmoji": "🧁",
+    "targetEmoji": "🏳️‍🌈",
+    "tagline": "The snack cake that became a legal defense for murder.",
+    "par": 3,
+    "path": [
+      "Twinkie",
+      "Twinkie defense",
+      "Dan White",
+      "Harvey Milk"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 21,
+    "date": "2026-08-04",
+    "start": "Nutmeg",
+    "target": "New York City",
+    "startEmoji": "🌰",
+    "targetEmoji": "🗽",
+    "tagline": "The spice the Dutch traded straight-up for Manhattan island.",
+    "par": 3,
+    "path": [
+      "Nutmeg",
+      "Run (island)",
+      "New Amsterdam",
+      "New York City"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 22,
+    "date": "2026-08-05",
+    "start": "Root beer",
+    "target": "MDMA",
+    "startEmoji": "🛢️",
+    "targetEmoji": "💊",
+    "tagline": "Same root: one flavors soda, one makes ecstasy.",
+    "par": 3,
+    "path": [
+      "Root beer",
+      "Sassafras",
+      "Safrole",
+      "MDMA"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 23,
+    "date": "2026-08-06",
+    "start": "Sitar",
+    "target": "Live Aid",
+    "startEmoji": "🎻",
+    "targetEmoji": "🌍",
+    "tagline": "Meet the instrument that invented the celebrity benefit concert.",
+    "par": 3,
+    "path": [
+      "Sitar",
+      "Ravi Shankar",
+      "The Concert for Bangladesh",
+      "Live Aid"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 24,
+    "date": "2026-08-07",
+    "start": "Metronome",
+    "target": "Amazon Mechanical Turk",
+    "startEmoji": "⏱️",
+    "targetEmoji": "🤖",
+    "tagline": "Your metronome's patent-holder also toured a fake chess robot.",
+    "par": 3,
+    "path": [
+      "Metronome",
+      "Johann Nepomuk Maelzel",
+      "Mechanical Turk",
+      "Amazon Mechanical Turk"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 25,
+    "date": "2026-08-08",
+    "start": "Ukulele",
+    "target": "Cristiano Ronaldo",
+    "startEmoji": "🌺",
+    "targetEmoji": "⚽",
+    "tagline": "The 'Hawaiian' ukulele's true birthplace also raised a soccer legend.",
+    "par": 3,
+    "path": [
+      "Ukulele",
+      "Madeira",
+      "Funchal",
+      "Cristiano Ronaldo"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 26,
+    "date": "2026-08-09",
+    "start": "Air guitar",
+    "target": "Finland",
+    "startEmoji": "🤘",
+    "targetEmoji": "🇫🇮",
+    "tagline": "Air guitar has a real world championship — held in Finland.",
+    "par": 3,
+    "path": [
+      "Air guitar",
+      "Air Guitar World Championships",
+      "Oulu",
+      "Finland"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 27,
+    "date": "2026-08-10",
+    "start": "Sumo",
+    "target": "Mongolia",
+    "startEmoji": "🤼",
+    "targetEmoji": "🇲🇳",
+    "tagline": "Mongolia quietly conquered Japan's most sacred sport.",
+    "par": 3,
+    "path": [
+      "Sumo",
+      "Makuuchi",
+      "Hakuhō Shō",
+      "Mongolia"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 28,
+    "date": "2026-08-11",
+    "start": "Dice",
+    "target": "Mahabharata",
+    "startEmoji": "🎲",
+    "targetEmoji": "📜",
+    "tagline": "A single dice game gambled away an epic's entire kingdom.",
+    "par": 3,
+    "path": [
+      "Dice",
+      "Board game",
+      "Pachisi",
+      "Mahabharata"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 29,
+    "date": "2026-08-12",
+    "start": "Healthy Choice",
+    "target": "American Airlines",
+    "startEmoji": "🍮",
+    "targetEmoji": "✈️",
+    "tagline": "He bought pudding cups and earned lifetime free flights.",
+    "par": 3,
+    "path": [
+      "Healthy Choice",
+      "David Phillips (entrepreneur)",
+      "AAdvantage",
+      "American Airlines"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 30,
+    "date": "2026-08-13",
+    "start": "Axolotl",
+    "target": "Venus",
+    "startEmoji": "🩷",
+    "targetEmoji": "🪐",
+    "tagline": "This forever young salamander is secretly named for the god who rules Venus.",
+    "par": 3,
+    "path": [
+      "Axolotl",
+      "Xolotl",
+      "Quetzalcōātl",
+      "Venus"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 31,
+    "date": "2026-08-14",
+    "start": "Octopus",
+    "target": "Spain",
+    "startEmoji": "🐙",
+    "targetEmoji": "🇪🇸",
+    "tagline": "An eight-armed oracle called this country's World Cup win.",
+    "par": 3,
+    "path": [
+      "Octopus",
+      "Paul the Octopus",
+      "Spain national football team",
+      "Spain"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 32,
+    "date": "2026-08-15",
+    "start": "Rat",
+    "target": "Steve Jobs",
+    "startEmoji": "🐀",
+    "targetEmoji": "📱",
+    "tagline": "This kitchen rat's studio boss also gave us the iPhone.",
+    "par": 3,
+    "path": [
+      "Rat",
+      "Ratatouille (film)",
+      "Pixar",
+      "Steve Jobs"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 33,
+    "date": "2026-08-16",
+    "start": "Tiffany & Co.",
+    "target": "American robin",
+    "startEmoji": "💍",
+    "targetEmoji": "🥚",
+    "tagline": "A luxury jeweler trademarked the color of a bird's egg.",
+    "par": 3,
+    "path": [
+      "Tiffany & Co.",
+      "Tiffany Blue",
+      "Robin egg blue",
+      "American robin"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 34,
+    "date": "2026-08-17",
+    "start": "Toblerone",
+    "target": "Bear",
+    "startEmoji": "🍫",
+    "targetEmoji": "🐻",
+    "tagline": "That mountain logo is hiding a bear in plain sight.",
+    "par": 3,
+    "path": [
+      "Toblerone",
+      "Bern",
+      "Bärengraben",
+      "Bear"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 35,
+    "date": "2026-08-18",
+    "start": "Wi-Fi",
+    "target": "Hedy Lamarr",
+    "startEmoji": "📡",
+    "targetEmoji": "🌟",
+    "tagline": "Your router's godmother was a 1940s movie star.",
+    "par": 2,
+    "path": [
+      "Wi-Fi",
+      "Frequency-hopping spread spectrum",
+      "Hedy Lamarr"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 36,
+    "date": "2026-08-19",
+    "start": "Croissant",
+    "target": "Ottoman Empire",
+    "startEmoji": "🥐",
+    "targetEmoji": "🏰",
+    "tagline": "Breakfast, forged in a siege.",
+    "par": 2,
+    "path": [
+      "Croissant",
+      "Vienna",
+      "Ottoman Empire"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 37,
+    "date": "2026-08-20",
+    "start": "Saxophone",
+    "target": "Belgium",
+    "startEmoji": "🎷",
+    "targetEmoji": "🧇",
+    "tagline": "Jazz owes Brussels an apology letter.",
+    "par": 2,
+    "path": [
+      "Saxophone",
+      "Adolphe Sax",
+      "Belgium"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 38,
+    "date": "2026-08-21",
+    "start": "Mermaid",
+    "target": "Hans Christian Andersen",
+    "startEmoji": "🧜‍♀️",
+    "targetEmoji": "✍️",
+    "tagline": "The tail has an author.",
+    "par": 2,
+    "path": [
+      "Mermaid",
+      "The Little Mermaid",
+      "Hans Christian Andersen"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 39,
+    "date": "2026-08-22",
+    "start": "Harry Potter",
+    "target": "Alchemy",
+    "startEmoji": "⚡",
+    "targetEmoji": "⚗️",
+    "tagline": "The first book was the giveaway.",
+    "par": 2,
+    "path": [
+      "Harry Potter",
+      "Harry Potter and the Philosopher's Stone",
+      "Alchemy"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 40,
+    "date": "2026-08-23",
+    "start": "Godzilla",
+    "target": "Nuclear weapon",
+    "startEmoji": "🦖",
+    "targetEmoji": "☢️",
+    "tagline": "The metaphor was never subtle.",
+    "par": 2,
+    "path": [
+      "Godzilla",
+      "Atomic bombings of Hiroshima and Nagasaki",
+      "Nuclear weapon"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 41,
+    "date": "2026-08-24",
+    "start": "Rubber duck",
+    "target": "World War II",
+    "startEmoji": "🐤",
+    "targetEmoji": "🪖",
+    "tagline": "Squeaky clean history.",
+    "par": 2,
+    "path": [
+      "Rubber duck",
+      "Goodyear Tire and Rubber Company",
+      "World War II"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 42,
+    "date": "2026-08-25",
+    "start": "Chess",
+    "target": "Cold War",
+    "startEmoji": "♟️",
+    "targetEmoji": "🧊",
+    "tagline": "The board was never just a board.",
+    "par": 2,
+    "path": [
+      "Chess",
+      "Soviet Union",
+      "Cold War"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 43,
+    "date": "2026-08-26",
+    "start": "Coffee",
+    "target": "Age of Enlightenment",
+    "startEmoji": "☕",
+    "targetEmoji": "💡",
+    "tagline": "Caffeine invented philosophy. Basically.",
+    "par": 2,
+    "path": [
+      "Coffee",
+      "Coffeehouse",
+      "Age of Enlightenment"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 44,
+    "date": "2026-08-27",
+    "start": "Fortune cookie",
+    "target": "Golden Gate Bridge",
+    "startEmoji": "🥠",
+    "targetEmoji": "🌉",
+    "tagline": "Your fortune: a bridge.",
+    "par": 2,
+    "path": [
+      "Fortune cookie",
+      "San Francisco",
+      "Golden Gate Bridge"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 45,
+    "date": "2026-08-28",
+    "start": "Espresso",
+    "target": "Ferrari",
+    "startEmoji": "☕",
+    "targetEmoji": "🏎️",
+    "tagline": "Two Italian ways to raise your heart rate.",
+    "par": 2,
+    "path": [
+      "Espresso",
+      "Italy",
+      "Ferrari"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 46,
+    "date": "2026-08-29",
+    "start": "Hot dog",
+    "target": "Ancient Rome",
+    "startEmoji": "🌭",
+    "targetEmoji": "🏛️",
+    "tagline": "Glizzy, but make it imperial.",
+    "par": 2,
+    "path": [
+      "Hot dog",
+      "Sausage",
+      "Ancient Rome"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 47,
+    "date": "2026-08-30",
+    "start": "Ketchup",
+    "target": "Traditional Chinese medicine",
+    "startEmoji": "🍅",
+    "targetEmoji": "🌿",
+    "tagline": "The condiment immigrated.",
+    "par": 2,
+    "path": [
+      "Ketchup",
+      "China",
+      "Traditional Chinese medicine"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 48,
+    "date": "2026-08-31",
+    "start": "Olympic Games",
+    "target": "Breakdancing",
+    "startEmoji": "🥇",
+    "targetEmoji": "🕺",
+    "tagline": "Yes, it counted.",
+    "par": 2,
+    "path": [
+      "Olympic Games",
+      "2024 Summer Olympics",
+      "Breakdancing"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 49,
+    "date": "2026-09-01",
+    "start": "Nyan Cat",
+    "target": "Mike Winkelmann",
+    "startEmoji": "🌈",
+    "targetEmoji": "🖼️",
+    "tagline": "Same NFT gold rush: a pixel cat and a $69M artist.",
+    "par": 2,
+    "path": [
+      "Nyan Cat",
+      "Non-fungible token",
+      "Mike Winkelmann"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 50,
+    "date": "2026-09-02",
+    "start": "Chuck Norris facts",
+    "target": "Mike Huckabee",
+    "startEmoji": "🥋",
+    "targetEmoji": "🗳️",
+    "tagline": "The internet's toughest meme endorsed a presidential run.",
+    "par": 2,
+    "path": [
+      "Chuck Norris facts",
+      "Chuck Norris",
+      "Mike Huckabee"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 51,
+    "date": "2026-09-03",
+    "start": "Bed Intruder Song",
+    "target": "Cher",
+    "startEmoji": "🛏️",
+    "targetEmoji": "🎤",
+    "tagline": "A viral meme and Cher share the same studio trick.",
+    "par": 2,
+    "path": [
+      "Bed Intruder Song",
+      "AutoTune",
+      "Cher"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 52,
+    "date": "2026-09-04",
+    "start": "Super Soaker",
+    "target": "Galileo (spacecraft)",
+    "startEmoji": "💦",
+    "targetEmoji": "🛰️",
+    "tagline": "The squirt-gun inventor once helped explore Jupiter.",
+    "par": 2,
+    "path": [
+      "Super Soaker",
+      "Lonnie Johnson (inventor)",
+      "Galileo (spacecraft)"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 53,
+    "date": "2026-09-05",
+    "start": "Polytetrafluoroethylene",
+    "target": "Manhattan Project",
+    "startEmoji": "🍳",
+    "targetEmoji": "💣",
+    "tagline": "Your nonstick pan helped enrich uranium in secret.",
+    "par": 2,
+    "path": [
+      "Polytetrafluoroethylene",
+      "Enriched uranium",
+      "Manhattan Project"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 54,
+    "date": "2026-09-06",
+    "start": "Aluminium foil",
+    "target": "Washington Monument",
+    "startEmoji": "🧻",
+    "targetEmoji": "🏛️",
+    "tagline": "This kitchen foil was once pricier than gold.",
+    "par": 2,
+    "path": [
+      "Aluminium foil",
+      "Aluminium",
+      "Washington Monument"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 55,
+    "date": "2026-09-07",
+    "start": "Monopoly (game)",
+    "target": "MI9",
+    "startEmoji": "🎩",
+    "targetEmoji": "🕵️",
+    "tagline": "This family board game smuggled real escape maps to POWs.",
+    "par": 2,
+    "path": [
+      "Monopoly (game)",
+      "Waddingtons",
+      "MI9"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 56,
+    "date": "2026-09-08",
+    "start": "Coca-Cola",
+    "target": "Nazi Germany",
+    "startEmoji": "🥤",
+    "targetEmoji": "🪖",
+    "tagline": "Its sister soda was invented to dodge a trade embargo.",
+    "par": 2,
+    "path": [
+      "Coca-Cola",
+      "Fanta",
+      "Nazi Germany"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 57,
+    "date": "2026-09-09",
+    "start": "Yellow ribbon",
+    "target": "Iran hostage crisis",
+    "startEmoji": "🎗️",
+    "targetEmoji": "🇮🇷",
+    "tagline": "A pop song turned into a hostage-crisis symbol overnight.",
+    "par": 2,
+    "path": [
+      "Yellow ribbon",
+      "Tie a Yellow Ribbon Round the Ole Oak Tree",
+      "Iran hostage crisis"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 58,
+    "date": "2026-09-10",
+    "start": "Ouija",
+    "target": "American Civil War",
+    "startEmoji": "🔮",
+    "targetEmoji": "⚔️",
+    "tagline": "A war's staggering death toll fueled this spooky toy's rise.",
+    "par": 2,
+    "path": [
+      "Ouija",
+      "Spiritualism (movement)",
+      "American Civil War"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 59,
+    "date": "2026-09-11",
+    "start": "Poinsettia",
+    "target": "Nullification crisis",
+    "startEmoji": "🌺",
+    "targetEmoji": "🏛️",
+    "tagline": "This Christmas flower's namesake helped crush a states'-rights revolt.",
+    "par": 2,
+    "path": [
+      "Poinsettia",
+      "Joel Roberts Poinsett",
+      "Nullification crisis"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 60,
+    "date": "2026-09-12",
+    "start": "Panama hat",
+    "target": "Spanish–American War",
+    "startEmoji": "🎩",
+    "targetEmoji": "⚓",
+    "tagline": "This hat's fame rode in on a war hero's reputation.",
+    "par": 2,
+    "path": [
+      "Panama hat",
+      "Theodore Roosevelt",
+      "Spanish–American War"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 61,
+    "date": "2026-09-13",
+    "start": "Spam (food)",
+    "target": "Nikita Khrushchev",
+    "startEmoji": "🥫",
+    "targetEmoji": "👞",
+    "tagline": "The canned meat Khrushchev credited with winning World War II.",
+    "par": 2,
+    "path": [
+      "Spam (food)",
+      "Lend-Lease",
+      "Nikita Khrushchev"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 62,
+    "date": "2026-09-14",
+    "start": "Pineapple",
+    "target": "Sanford B. Dole",
+    "startEmoji": "🍍",
+    "targetEmoji": "👑",
+    "tagline": "The fruit company whose founder's cousin toppled a kingdom.",
+    "par": 2,
+    "path": [
+      "Pineapple",
+      "James Dole",
+      "Sanford B. Dole"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 63,
+    "date": "2026-09-15",
+    "start": "Winnie-the-Pooh",
+    "target": "World War I",
+    "startEmoji": "🐻",
+    "targetEmoji": "🎖️",
+    "tagline": "The real Pooh Bear shipped out with the Canadian army.",
+    "par": 2,
+    "path": [
+      "Winnie-the-Pooh",
+      "A. A. Milne",
+      "World War I"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 64,
+    "date": "2026-09-16",
+    "start": "Peter Rabbit",
+    "target": "Mycology",
+    "startEmoji": "🐰",
+    "targetEmoji": "🍄",
+    "tagline": "Peter Rabbit's creator moonlighted as a serious mycologist.",
+    "par": 2,
+    "path": [
+      "Peter Rabbit",
+      "Beatrix Potter",
+      "Mycology"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 65,
+    "date": "2026-09-17",
+    "start": "Statue of Liberty",
+    "target": "Suez Canal",
+    "startEmoji": "🗽",
+    "targetEmoji": "🚢",
+    "tagline": "Lady Liberty's first draft: a lighthouse for Egypt's canal.",
+    "par": 2,
+    "path": [
+      "Statue of Liberty",
+      "Frédéric Auguste Bartholdi",
+      "Suez Canal"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 66,
+    "date": "2026-09-18",
+    "start": "Dungeons & Dragons",
+    "target": "The Hobbit",
+    "startEmoji": "🎲",
+    "targetEmoji": "📖",
+    "tagline": "A copyright fight over hobbits reshaped fantasy gaming forever.",
+    "par": 2,
+    "path": [
+      "Dungeons & Dragons",
+      "Halfling",
+      "The Hobbit"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 67,
+    "date": "2026-09-19",
+    "start": "Vocoder",
+    "target": "Winston Churchill",
+    "startEmoji": "🎙️",
+    "targetEmoji": "🎩",
+    "tagline": "This voice-warping effect once kept Churchill's transatlantic calls secret.",
+    "par": 2,
+    "path": [
+      "Vocoder",
+      "SIGSALY",
+      "Winston Churchill"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 68,
+    "date": "2026-09-20",
+    "start": "Theremin",
+    "target": "The Thing (listening device)",
+    "startEmoji": "👻",
+    "targetEmoji": "🕵️",
+    "tagline": "The eerie instrument's inventor also bugged the US embassy.",
+    "par": 2,
+    "path": [
+      "Theremin",
+      "Leon Theremin",
+      "The Thing (listening device)"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 69,
+    "date": "2026-09-21",
+    "start": "Hip-hop",
+    "target": "Robert Moses",
+    "startEmoji": "🎤",
+    "targetEmoji": "🛣️",
+    "tagline": "One planner's Bronx highway accidentally birthed a genre.",
+    "par": 2,
+    "path": [
+      "Hip-hop",
+      "Cross Bronx Expressway",
+      "Robert Moses"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 70,
+    "date": "2026-09-22",
+    "start": "Glass harmonica",
+    "target": "Animal magnetism",
+    "startEmoji": "🥂",
+    "targetEmoji": "🌀",
+    "tagline": "Ben Franklin's eerie glass instrument became hypnosis's official soundtrack.",
+    "par": 2,
+    "path": [
+      "Glass harmonica",
+      "Franz Mesmer",
+      "Animal magnetism"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 71,
+    "date": "2026-09-23",
+    "start": "Electric guitar",
+    "target": "Bing Crosby",
+    "startEmoji": "🎸",
+    "targetEmoji": "🎙️",
+    "tagline": "A crooner's cash funded rock's favorite studio trick.",
+    "par": 2,
+    "path": [
+      "Electric guitar",
+      "Les Paul",
+      "Bing Crosby"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 72,
+    "date": "2026-09-24",
+    "start": "Disco",
+    "target": "Chicago White Sox",
+    "startEmoji": "🕺",
+    "targetEmoji": "⚾",
+    "tagline": "Blowing up disco records got a baseball game forfeited.",
+    "par": 2,
+    "path": [
+      "Disco",
+      "Disco Demolition Night",
+      "Chicago White Sox"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 73,
+    "date": "2026-09-25",
+    "start": "Curling",
+    "target": "Ailsa Craig",
+    "startEmoji": "🥌",
+    "targetEmoji": "🏝️",
+    "tagline": "One tiny Scottish island supplies almost every curling stone.",
+    "par": 2,
+    "path": [
+      "Curling",
+      "Curling",
+      "Ailsa Craig"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 74,
+    "date": "2026-09-26",
+    "start": "Jenga",
+    "target": "Kenya",
+    "startEmoji": "🧱",
+    "targetEmoji": "🇰🇪",
+    "tagline": "Test tagline.",
+    "par": 2,
+    "path": [
+      "Jenga",
+      "Swahili",
+      "Kenya"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 75,
+    "date": "2026-09-27",
+    "start": "Risk (game)",
+    "target": "The Red Balloon",
+    "startEmoji": "🌍",
+    "targetEmoji": "🎈",
+    "tagline": "World domination was dreamed up by a balloon filmmaker.",
+    "par": 2,
+    "path": [
+      "Risk (game)",
+      "Albert Lamorisse",
+      "The Red Balloon"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 76,
+    "date": "2026-09-28",
+    "start": "Speedrunning",
+    "target": "Médecins Sans Frontières",
+    "startEmoji": "⏱️",
+    "targetEmoji": "🩺",
+    "tagline": "Speedrun marathons once funded real-life doctors.",
+    "par": 2,
+    "path": [
+      "Speedrunning",
+      "Games Done Quick",
+      "Médecins Sans Frontières"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 77,
+    "date": "2026-09-29",
+    "start": "Marathon",
+    "target": "Windsor Castle",
+    "startEmoji": "🏃",
+    "targetEmoji": "🏰",
+    "tagline": "26.2 miles exist because of a royal nursery window.",
+    "par": 2,
+    "path": [
+      "Marathon",
+      "1908 Summer Olympics",
+      "Windsor Castle"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 78,
+    "date": "2026-09-30",
+    "start": "Nike, Inc.",
+    "target": "Styx",
+    "startEmoji": "👟",
+    "targetEmoji": "🌊",
+    "tagline": "Just Do It is named after a death river's daughter.",
+    "par": 2,
+    "path": [
+      "Nike, Inc.",
+      "Nike (mythology)",
+      "Styx"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 79,
+    "date": "2026-10-01",
+    "start": "Santa Claus",
+    "target": "Sleipnir",
+    "startEmoji": "🎅",
+    "targetEmoji": "🐎",
+    "tagline": "Santa's reindeer may descend from Odin's eight-legged horse.",
+    "par": 2,
+    "path": [
+      "Santa Claus",
+      "Odin",
+      "Sleipnir"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 80,
+    "date": "2026-10-02",
+    "start": "Friday the 13th",
+    "target": "Baldr",
+    "startEmoji": "😨",
+    "targetEmoji": "☀️",
+    "tagline": "Friday the 13th's curse started at a Norse dinner party.",
+    "par": 2,
+    "path": [
+      "Friday the 13th",
+      "Loki",
+      "Baldr"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 81,
+    "date": "2026-10-03",
+    "start": "Statue of Liberty",
+    "target": "Panama Canal",
+    "startEmoji": "🗽",
+    "targetEmoji": "🚢",
+    "tagline": "Her framework's engineer got tangled in a canal fraud scandal.",
+    "par": 2,
+    "path": [
+      "Statue of Liberty",
+      "Gustave Eiffel",
+      "Panama Canal"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 82,
+    "date": "2026-10-04",
+    "start": "Machu Picchu",
+    "target": "Yale University",
+    "startEmoji": "🏔️",
+    "targetEmoji": "🎓",
+    "tagline": "The 'lost city' sparked an Ivy League ownership battle.",
+    "par": 2,
+    "path": [
+      "Machu Picchu",
+      "Hiram Bingham III",
+      "Yale University"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 83,
+    "date": "2026-10-05",
+    "start": "Leaning Tower of Pisa",
+    "target": "Jupiter",
+    "startEmoji": "🗼",
+    "targetEmoji": "🪐",
+    "tagline": "A leaning tower with a direct line to Jupiter.",
+    "par": 2,
+    "path": [
+      "Leaning Tower of Pisa",
+      "Galileo Galilei",
+      "Jupiter"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 84,
+    "date": "2026-10-06",
+    "start": "Bermuda Triangle",
+    "target": "Close Encounters of the Third Kind",
+    "startEmoji": "🔺",
+    "targetEmoji": "🛸",
+    "tagline": "A doomed Navy squadron flew straight into a Spielberg film.",
+    "par": 2,
+    "path": [
+      "Bermuda Triangle",
+      "Flight 19",
+      "Close Encounters of the Third Kind"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 85,
+    "date": "2026-10-07",
+    "start": "Great Wall of China",
+    "target": "Shenzhou 5",
+    "startEmoji": "🧱",
+    "targetEmoji": "🛰️",
+    "tagline": "One astronaut's word busted the wall's 'visible from space' myth.",
+    "par": 2,
+    "path": [
+      "Great Wall of China",
+      "Yang Liwei",
+      "Shenzhou 5"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 86,
+    "date": "2026-10-08",
+    "start": "Antarctica",
+    "target": "Mars",
+    "startEmoji": "🐧",
+    "targetEmoji": "🔴",
+    "tagline": "Earth's best junkyard for rocks from another planet.",
+    "par": 2,
+    "path": [
+      "Antarctica",
+      "Allan Hills 84001",
+      "Mars"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 87,
+    "date": "2026-10-09",
+    "start": "QR code",
+    "target": "Toyota",
+    "startEmoji": "📱",
+    "targetEmoji": "🚗",
+    "tagline": "Invented to track car parts, not restaurant menus.",
+    "par": 2,
+    "path": [
+      "QR code",
+      "Denso",
+      "Toyota"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 88,
+    "date": "2026-10-10",
+    "start": "Barcode",
+    "target": "Samuel Morse",
+    "startEmoji": "📊",
+    "targetEmoji": "📡",
+    "tagline": "A barcode is just Morse code stretched into stripes.",
+    "par": 2,
+    "path": [
+      "Barcode",
+      "Morse code",
+      "Samuel Morse"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 89,
+    "date": "2026-10-11",
+    "start": "Bubble Wrap (brand)",
+    "target": "IBM",
+    "startEmoji": "🫧",
+    "targetEmoji": "💻",
+    "tagline": "It was invented as wallpaper before wrapping IBM's 1401 computers.",
+    "par": 2,
+    "path": [
+      "Bubble Wrap (brand)",
+      "IBM 1401",
+      "IBM"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 90,
+    "date": "2026-10-12",
+    "start": "Vending machine",
+    "target": "Aeolipile",
+    "startEmoji": "🥤",
+    "targetEmoji": "⚙️",
+    "tagline": "Ancient Greece invented vending machines — and the first steam engine.",
+    "par": 2,
+    "path": [
+      "Vending machine",
+      "Hero of Alexandria",
+      "Aeolipile"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 91,
+    "date": "2026-10-13",
+    "start": "Robot",
+    "target": "Serfdom",
+    "startEmoji": "🤖",
+    "targetEmoji": "⛓️",
+    "tagline": "\"Robot\" literally means serf labor in Czech.",
+    "par": 2,
+    "path": [
+      "Robot",
+      "R.U.R.",
+      "Serfdom"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 92,
+    "date": "2026-10-14",
+    "start": "Sandwich",
+    "target": "Hawaii",
+    "startEmoji": "🥪",
+    "targetEmoji": "🌺",
+    "tagline": "Your sandwich and Hawaii share the same namesake.",
+    "par": 2,
+    "path": [
+      "Sandwich",
+      "John Montagu, 4th Earl of Sandwich",
+      "Hawaii"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 93,
+    "date": "2026-10-15",
+    "start": "Cardigan (sweater)",
+    "target": "Crimean War",
+    "startEmoji": "🧥",
+    "targetEmoji": "⚔️",
+    "tagline": "A cozy sweater is named after a doomed cavalry charge.",
+    "par": 2,
+    "path": [
+      "Cardigan (sweater)",
+      "James Brudenell, 7th Earl of Cardigan",
+      "Crimean War"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 94,
+    "date": "2026-10-16",
+    "start": "Silhouette",
+    "target": "Seven Years' War",
+    "startEmoji": "🌑",
+    "targetEmoji": "💣",
+    "tagline": "A shadow outline is named after a stingy war treasurer.",
+    "par": 2,
+    "path": [
+      "Silhouette",
+      "Étienne de Silhouette",
+      "Seven Years' War"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 95,
+    "date": "2026-10-17",
+    "start": "Sideburns",
+    "target": "American Civil War",
+    "startEmoji": "🧔",
+    "targetEmoji": "🎖️",
+    "tagline": "Sideburns are a Civil War general's name, split and swapped.",
+    "par": 2,
+    "path": [
+      "Sideburns",
+      "Ambrose Burnside",
+      "American Civil War"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 96,
+    "date": "2026-10-18",
+    "start": "Cappuccino",
+    "target": "Capuchin monkey",
+    "startEmoji": "☕",
+    "targetEmoji": "🐒",
+    "tagline": "Your cappuccino and a jungle monkey share the same haircut.",
+    "par": 2,
+    "path": [
+      "Cappuccino",
+      "Order of Friars Minor Capuchin",
+      "Capuchin monkey"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 97,
+    "date": "2026-10-19",
+    "start": "Tardigrade",
+    "target": "Israel",
+    "startEmoji": "🧫",
+    "targetEmoji": "🇮🇱",
+    "tagline": "This indestructible creature got stranded on the Moon by this country.",
+    "par": 2,
+    "path": [
+      "Tardigrade",
+      "Beresheet",
+      "Israel"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 98,
+    "date": "2026-10-20",
+    "start": "Narwhal",
+    "target": "Scotland",
+    "startEmoji": "🐋",
+    "targetEmoji": "🦄",
+    "tagline": "This tusked whale accidentally invented Scotland's national animal.",
+    "par": 2,
+    "path": [
+      "Narwhal",
+      "Unicorn",
+      "Scotland"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 99,
+    "date": "2026-10-21",
+    "start": "Jellyfish",
+    "target": "GloFish",
+    "startEmoji": "🪼",
+    "targetEmoji": "🐠",
+    "tagline": "A jellyfish's glow gene lit up pet-store fish tanks.",
+    "par": 2,
+    "path": [
+      "Jellyfish",
+      "Green fluorescent protein",
+      "GloFish"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 100,
+    "date": "2026-10-22",
+    "start": "Necktie",
+    "target": "Thirty Years' War",
+    "startEmoji": "👔",
+    "targetEmoji": "⚔️",
+    "tagline": "Business neckwear was forged in Europe's bloodiest 17th-century war.",
+    "par": 2,
+    "path": [
+      "Necktie",
+      "Croats (military unit)",
+      "Thirty Years' War"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 101,
+    "date": "2026-10-23",
+    "start": "Sunglasses",
+    "target": "Greenland",
+    "startEmoji": "😎",
+    "targetEmoji": "🇬🇱",
+    "tagline": "Your shades trace back to Arctic snow goggles, not Hollywood.",
+    "par": 2,
+    "path": [
+      "Sunglasses",
+      "Inuit",
+      "Greenland"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 102,
+    "date": "2026-10-24",
+    "start": "Bubble Wrap (brand)",
+    "target": "Ford Model T",
+    "startEmoji": "🫧",
+    "targetEmoji": "🚗",
+    "tagline": "Bubble wrap's big break came packaging 'the Model T of computers.'",
+    "par": 2,
+    "path": [
+      "Bubble Wrap (brand)",
+      "IBM 1401",
+      "Ford Model T"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 103,
+    "date": "2026-10-25",
+    "start": "McDonald's",
+    "target": "Walt Disney",
+    "startEmoji": "🍔",
+    "targetEmoji": "🏰",
+    "tagline": "Big Macs and Mickey Mouse share a WWI ambulance ride.",
+    "par": 2,
+    "path": [
+      "McDonald's",
+      "Ray Kroc",
+      "Walt Disney"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 104,
+    "date": "2026-10-26",
+    "start": "Adidas",
+    "target": "1954 FIFA World Cup final",
+    "startEmoji": "⚽",
+    "targetEmoji": "🏆",
+    "tagline": "Screw-in cleats from a shoe brand won a World Cup final.",
+    "par": 2,
+    "path": [
+      "Adidas",
+      "Adolf Dassler",
+      "1954 FIFA World Cup final"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 105,
+    "date": "2026-10-27",
+    "start": "Barcode",
+    "target": "Morse code",
+    "startEmoji": "🏷️",
+    "targetEmoji": "📡",
+    "tagline": "Barcodes are Morse code wearing a grocery disguise.",
+    "par": 2,
+    "path": [
+      "Barcode",
+      "Norman Joseph Woodland",
+      "Morse code"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 106,
+    "date": "2026-10-28",
+    "start": "Shrek",
+    "target": "Napoleon",
+    "startEmoji": "🟢",
+    "targetEmoji": "🎩",
+    "tagline": "From swamp to empire.",
+    "par": 4,
+    "path": [
+      "Shrek",
+      "Ogre",
+      "French language",
+      "France",
+      "Napoleon"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 107,
+    "date": "2026-10-29",
+    "start": "Avocado",
+    "target": "Super Bowl",
+    "startEmoji": "🥑",
+    "targetEmoji": "🏈",
+    "tagline": "Guacamole season is a national holiday.",
+    "par": 4,
+    "path": [
+      "Avocado",
+      "Mexico",
+      "United States",
+      "American football",
+      "Super Bowl"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 108,
+    "date": "2026-10-30",
+    "start": "TikTok",
+    "target": "Confucius",
+    "startEmoji": "📱",
+    "targetEmoji": "📜",
+    "tagline": "For You Page, meet the OG influencer.",
+    "par": 4,
+    "path": [
+      "TikTok",
+      "Mainland China",
+      "China",
+      "Confucianism",
+      "Confucius"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 109,
+    "date": "2026-10-31",
+    "start": "Bigfoot",
+    "target": "Charles Darwin",
+    "startEmoji": "🦶",
+    "targetEmoji": "🧬",
+    "tagline": "One of them has evidence.",
+    "par": 4,
+    "path": [
+      "Bigfoot",
+      "Ape",
+      "Human evolution",
+      "Evolution",
+      "Charles Darwin"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 110,
+    "date": "2026-11-01",
+    "start": "Cheese",
+    "target": "Moon",
+    "startEmoji": "🧀",
+    "targetEmoji": "🌕",
+    "tagline": "Settle it once and for all.",
+    "par": 5,
+    "path": [
+      "Cheese",
+      "Milk",
+      "Vitamin D",
+      "Sunlight",
+      "Sun",
+      "Moon"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 111,
+    "date": "2026-11-02",
+    "start": "Velociraptor",
+    "target": "Beyoncé",
+    "startEmoji": "🦖",
+    "targetEmoji": "👑",
+    "tagline": "Prehistoric to iconic.",
+    "par": 4,
+    "path": [
+      "Velociraptor",
+      "Jurassic Park",
+      "John Williams",
+      "Grammy Awards",
+      "Beyoncé"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 112,
+    "date": "2026-11-03",
+    "start": "Champagne",
+    "target": "James Bond",
+    "startEmoji": "🍾",
+    "targetEmoji": "🔫",
+    "tagline": "Shaken, not spilled.",
+    "par": 4,
+    "path": [
+      "Champagne",
+      "France",
+      "United Kingdom",
+      "Ian Fleming",
+      "James Bond"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 113,
+    "date": "2026-11-04",
+    "start": "Chupa Chups",
+    "target": "Salvador Dalí",
+    "startEmoji": "🍭",
+    "targetEmoji": "🎨",
+    "tagline": "A surrealist master doodled this lollipop's logo on a napkin.",
+    "par": 1,
+    "path": [
+      "Chupa Chups",
+      "Salvador Dalí"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 114,
+    "date": "2026-11-05",
+    "start": "Elephant",
+    "target": "Table tennis",
+    "startEmoji": "🐘",
+    "targetEmoji": "🏓",
+    "tagline": "Ivory shortage from this giant animal accidentally invented ping-pong balls.",
+    "par": 5,
+    "path": [
+      "Elephant",
+      "Ivory",
+      "Billiard ball",
+      "John Wesley Hyatt",
+      "Celluloid",
+      "Table tennis"
+    ],
+    "holeInOnePossible": false
+  },
+  {
+    "num": 115,
+    "date": "2026-11-06",
+    "start": "Barbie",
+    "target": "Bild",
+    "startEmoji": "🩷",
+    "targetEmoji": "📰",
+    "tagline": "America's favorite doll began life as a German tabloid gag.",
+    "par": 1,
+    "path": [
+      "Barbie",
+      "Bild"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 116,
+    "date": "2026-11-07",
+    "start": "Traffic light",
+    "target": "Palace of Westminster",
+    "startEmoji": "🚦",
+    "targetEmoji": "🏛️",
+    "tagline": "The first traffic light exploded right outside Parliament.",
+    "par": 1,
+    "path": [
+      "Traffic light",
+      "Palace of Westminster"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 117,
+    "date": "2026-11-08",
+    "start": "Roomba",
+    "target": "PackBot",
+    "startEmoji": "🤖",
+    "targetEmoji": "💣",
+    "tagline": "The same company that vacuums your floor also defuses bombs.",
+    "par": 1,
+    "path": [
+      "Roomba",
+      "PackBot"
+    ],
+    "holeInOnePossible": true
+  },
+  {
+    "num": 118,
+    "date": "2026-11-09",
+    "start": "QR code",
+    "target": "Denso",
+    "startEmoji": "🔳",
+    "targetEmoji": "🔧",
+    "tagline": "Your restaurant menu's QR code was built to track car parts.",
+    "par": 1,
+    "path": [
+      "QR code",
+      "Denso"
+    ],
+    "holeInOnePossible": true
+  }
+]

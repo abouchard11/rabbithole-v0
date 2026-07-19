@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #140b2e;
+  --foreground: #ededed;
 }
 
 @theme inline {
@@ -12,15 +12,124 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+.bg-burrow {
+  background: radial-gradient(ellipse at 50% -20%, #2a1758 0%, #140b2e 55%, #0b0620 100%);
+}
+
+/* ---------- Rendered Wikipedia article ---------- */
+.wiki-content {
+  color: #202122;
+  font-size: 15.5px;
+  line-height: 1.65;
+  word-break: break-word;
+}
+.wiki-content h1,
+.wiki-content h2,
+.wiki-content h3,
+.wiki-content h4 {
+  font-weight: 700;
+  line-height: 1.25;
+  margin: 1.1em 0 0.4em;
+  color: #111;
+}
+.wiki-content h2 {
+  font-size: 1.35rem;
+  border-bottom: 1px solid #e2e2e2;
+  padding-bottom: 0.2em;
+}
+.wiki-content h3 {
+  font-size: 1.15rem;
+}
+.wiki-content p {
+  margin: 0.6em 0;
+}
+.wiki-content a {
+  color: #7c3aed;
+  text-decoration: none;
+  font-weight: 500;
+  border-bottom: 1px solid #ddd0f5;
+}
+.wiki-content a:active {
+  background: #ede9fe;
+}
+/* external + red links: visibly dead doors */
+.wiki-content a[rel~="mw:ExtLink"],
+.wiki-content a.new,
+.wiki-content a.external {
+  color: #9ca3af;
+  border-bottom: none;
+  pointer-events: auto; /* still intercepted & ignored — style is the signal */
+  font-weight: 400;
+}
+.wiki-content ul,
+.wiki-content ol {
+  padding-left: 1.4em;
+  margin: 0.6em 0;
+}
+.wiki-content li {
+  margin: 0.25em 0;
+}
+.wiki-content img {
+  max-width: 100%;
+  height: auto;
+}
+.wiki-content figure {
+  margin: 0.9em auto;
+  text-align: center;
+}
+.wiki-content figcaption {
+  font-size: 0.8rem;
+  color: #555;
+  margin-top: 0.3em;
+}
+.wiki-content table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+  margin: 0.9em 0;
+}
+.wiki-content table td,
+.wiki-content table th {
+  border: 1px solid #e5e5e5;
+  padding: 0.35em 0.55em;
+}
+.wiki-content .infobox {
+  float: none;
+  width: 100%;
+  margin: 0.9em 0;
+  background: #fafafa;
+}
+.wiki-content sup {
+  font-size: 0.7em;
+}
+.wiki-content blockquote {
+  border-left: 3px solid #ddd;
+  margin: 0.8em 0;
+  padding-left: 0.9em;
+  color: #444;
+}
+.wiki-content .hatnote,
+.wiki-content .mw-empty-elt {
+  display: none;
+}
+.wiki-content .thumbinner {
+  max-width: 100% !important;
+}
+.wiki-content .navbox,
+.wiki-content .vertical-navbox {
+  font-size: 0.75rem;
+}
+.wiki-content math,
+.wiki-content .mwe-math-element {
+  overflow-x: auto;
+  display: inline-block;
+  max-width: 100%;
 }
