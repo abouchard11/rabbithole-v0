@@ -2,6 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import ArticleView from "@/components/ArticleView";
+import LinkBoard from "@/components/LinkBoard";
 import { getPuzzle, msUntilNextUTCMidnight, todayUTC } from "@/lib/puzzles";
 import { fetchArticle, sameTitle, wikipediaUrl, type WikiPage } from "@/lib/wiki";
 import { roast, scoreName, shareText } from "@/lib/roast";
@@ -23,6 +24,7 @@ export default function Home() {
   const intermediates = puzzle.path.slice(1, -1);
 
   const [phase, setPhase] = useState<Phase>("intro");
+  const [view, setView] = useState<"board" | "article">("board");
   const [html, setHtml] = useState("");
   const [current, setCurrent] = useState(puzzle.start);
   const [trail, setTrail] = useState<string[]>([]);
@@ -308,6 +310,13 @@ export default function Home() {
           >
             ⛳ {effectiveStrokes}/{puzzle.par}
           </span>
+          <button
+            onClick={() => setView(view === "board" ? "article" : "board")}
+            className="shrink-0 rounded-full bg-white/10 px-2.5 py-1 text-sm transition active:scale-95"
+            aria-label={view === "board" ? "Read the full article" : "Back to the link board"}
+          >
+            {view === "board" ? "📖" : "🕳️"}
+          </button>
         </div>
         <div className="mx-auto mt-2 flex max-w-3xl items-center gap-1.5 overflow-x-auto pb-1 text-xs">
           {trail.map((t, i) => (
@@ -328,6 +337,11 @@ export default function Home() {
               💡 via {intermediates.slice(0, hints).join(" → ")}
             </span>
           )}
+          {trail.length > 1 && puzzle.path.some((p) => sameTitle(p, current)) && (
+            <span className="shrink-0 rounded-full border border-emerald-500/60 bg-emerald-950/60 px-2.5 py-1 text-emerald-300">
+              🐾 rabbit tracks
+            </span>
+          )}
         </div>
       </header>
 
@@ -335,12 +349,23 @@ export default function Home() {
         <div className="bg-rose-950 px-4 py-2 text-center text-sm text-rose-200">{error}</div>
       )}
 
-      <ArticleView
-        html={html}
-        loading={loadingTitle !== null}
-        loadingTitle={loadingTitle}
-        onNavigate={onNavigate}
-      />
+      {view === "board" ? (
+        <LinkBoard
+          html={html}
+          current={current}
+          target={puzzle.target}
+          loading={loadingTitle !== null}
+          loadingTitle={loadingTitle}
+          onNavigate={onNavigate}
+        />
+      ) : (
+        <ArticleView
+          html={html}
+          loading={loadingTitle !== null}
+          loadingTitle={loadingTitle}
+          onNavigate={onNavigate}
+        />
+      )}
 
       {hints < intermediates.length && (
         <button
