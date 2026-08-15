@@ -4,6 +4,8 @@ A daily Wikipedia-navigation puzzle — "wiki golf." Get from a **start** articl
 **target** article using only the real links *inside* live Wikipedia pages. Every link you
 click is a stroke; you're scored against a par set by a pre-verified shortest path.
 
+**▶ Play it: [rabbithole.midnightdev.dev](https://rabbithole.midnightdev.dev)**
+
 > **Status: v0, parked (2026-07-15).** Playable and deployed, but exploration is on hold.
 > The niche turned out crowded; the genuinely valuable asset here is the corpus of
 > fact-checked connection chains, not the wikirace mechanic itself.
